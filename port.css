@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    margin: 0%;
+}
+#menu{
+    position: fixed;
+    top: 0;
+    background-color: blueviolet;
+    width: 100%;
+    margin: 0px;
+    
+
+
+}
+.links{
+    display: inline;
+    padding-right: 30px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.links:hover{
+    font-size: 25px;
+
+}
+html{
+    scroll-behavior: smooth;
+}
+#home{
+    margin-top: 26px;
+    background-image: linear-gradient(to bottom right,aqua,aquamarine,red);
+}
+#home img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+#line{
+    height: 6px;
+    
+}
